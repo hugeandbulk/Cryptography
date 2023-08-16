@@ -10,3 +10,7 @@ _A checksum is a string of numbers and letters that act as a fingerprint for a f
 What is the best checksum method?
 
 _One algorithm, SHA-1, produces a 160-bit checksum and is the best-performing checksum, followed by the 256-bit and 512-bit versions. Checksums play an important role in data protection and file security_.
+
+What is the size of a checksum?
+
+_The size can be indicated in the name of the hash, for example, SHA-256 makes a resulting checksum that is 256 bits. The checksum algorithm is really a special kind of hash function. A hash function is a function, or process, that can be used to map data of arbitrary size to data of a fixed size_.
