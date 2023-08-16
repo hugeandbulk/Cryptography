@@ -6,3 +6,7 @@ _Checksum is the redundant bits that are attached with actual data. Sometimes, a
 Why checksum is used?
 
 _A checksum is a string of numbers and letters that act as a fingerprint for a file against which later comparisons can be made to detect errors in the data. They are important because we use them to check files for integrity_.
+
+What is the best checksum method?
+
+_One algorithm, SHA-1, produces a 160-bit checksum and is the best-performing checksum, followed by the 256-bit and 512-bit versions. Checksums play an important role in data protection and file security_.
